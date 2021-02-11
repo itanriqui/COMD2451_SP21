@@ -2,23 +2,23 @@ Homework Questions 1 (Homework part 2) Answers
 ======
 1. What does HTML stand for?
 
-Hyper Text Markup Language
+	Hyper Text Markup Language
     
 2. What does HTML do?
 
-HTML gives a page structure and meaning by defining content.
+	HTML gives a page structure and meaning by defining content.
     
 3. What is an HTML element? What can it represent? And what does it define?
 
-An HTML element is an individual component within an HTML document. It can represent semantics or meaning and it defines the structure and content of an object within a webpage.
+	An HTML element is an individual component within an HTML document. It can represent semantics or meaning and it defines the structure and content of an object within a webpage.
     
 4. How is an HTML element identified?
 
-Elements are identified by angle brackets < > surrounding an element name.
+	Elements are identified by angle brackets < > surrounding an element name.
     
 5. What is an HTML tag?
 
-The use of angle brackets surrounding an element creates a tag. Tags usually denote the start and end of an element. They can be self-closing as well.
+	The use of angle brackets surrounding an element creates a tag. Tags usually denote the start and end of an element. They can be self-closing as well.
     
 6. What is the difference between an HTML element and an HTML tag?
 
