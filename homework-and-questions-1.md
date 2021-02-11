@@ -33,9 +33,9 @@
         
 12. How is an HTML element defined? In other words, what does its markup basically consist of? Use your h1 element in your index.html file as an example.
     An HTML element is defined by a start tag, some content, and an end tag. For example, my h1 element uses a start tag, content (This is my first html file!), and an end tag.
-    '''html
+    ```html
     <h1>This is my first html file!</h1>
-    '''
+    ```
     
 13. What does <!DOCTYPE html> mean? What is its purpose and what kind of declaration is it?
     	<!DOCTYPE html> is a document type declaration and it informs web browsers which version of HTML is being used.
@@ -91,6 +91,6 @@
     
 30. What is the viewport? Why was it created? What element defines it? What attributes are used, and what do its attributes and corresponding values represent? Please also provide an example of the meta viewport tag.
 	The viewport is the user's visible area of the web page. It was created when tablets and mobile phones were introduced in order to work dynamically with different screens. It is defined by the meta element. The attribute name=”viewport” is used in the meta element to give browsers instructions on how to control the page’s dimensions and scaling. The attribute content=”width=device-width, initial-scale=1.0” contains two values; width=device-width sets the width of the page to follow the screen width of a device and initial-scale=1.0 sets the initial zoom level when the page is first loaded by the browser. 
-	'''
+	```html
 	Ex:<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	'''
+	```html
