@@ -125,4 +125,7 @@ Homework Questions 1 (Homework part 2) Answers
 	```html
 	Ex:<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	```
+<<<<<<< HEAD
     
+=======
+>>>>>>> 38cf269f6841e9a8ea58c95996f11770c05ec1cf
